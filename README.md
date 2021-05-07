@@ -53,7 +53,7 @@
     <td align="center"><a href="https://github.com/JoedSilva18"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/41526188?v=4" width="100px;" alt="Joed Silva"/><br /><sub><b>Joed Silva</b></sub></a><br /><a href="https://github.com/JoedSilva18" title="Joed Silva">☕</a></td>
     <td align="center"><a href="https://github.com/Dorivis"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/15651259?v=4" width="100px;" alt="Dorival"/><br /><sub><b>Dorival</b></sub></a><br /><a href="https://github.com/Dorivis" title="Dorival">☕</a></td>
   </tr>
-</table>
+</table></br>
 
 
 <h2>👽 Autor</h2>
@@ -66,7 +66,7 @@
 <p>Leave your star, fork the project or open a pull request ❤️</p>
 <p>Contact me on social networks: </p>
 <p><a href="https://twitter.com/sivirinoo"><img src="https://img.shields.io/twitter/follow/sivirinoo?style=social" alt="Silvio Ronaldo's Twitter" /></a>
-<a href="https://br.linkedin.com/in/silvio-ronaldo77"><img src="https://img.shields.io/badge/-Silvio-blue?style=flat&logo=Linkedin&logoColor=white" alt="Silvio Ronaldo's LinkedIn" /></a></p> 
+<a href="https://br.linkedin.com/in/silvio-ronaldo77"><img src="https://img.shields.io/badge/-Silvio-blue?style=flat&logo=Linkedin&logoColor=white" alt="Silvio Ronaldo's LinkedIn" /></a></p></br>
 
 
 <h2>⚖️ Licença</h2>
